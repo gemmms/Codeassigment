@@ -17,7 +17,7 @@ Go to the Wiki tab and fill in all of the details, making a nice presentation of
 Consider including a nice diagram that shows the main framework:
 
 imagen
-![image](https://user-images.githubusercontent.com/132361336/235732768-0acf862f-994d-4789-bd6b-c43603372e89.png)
+plot ([image](https://user-images.githubusercontent.com/132361336/235732768-0acf862f-994d-4789-bd6b-c43603372e89.png))
 
 
 Insert bibliography (with DOI)
