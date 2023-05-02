@@ -12,6 +12,9 @@ what is the problem/limitation of the state of the art?
 how do you aim to improve it?
 Make sure you cite the sources that you report. Two consicutive citations [1,2] usually separated by comma [2,3], three or more consecutive citations are generally separated by dash [1-3].
 
+We live in a world with many accidents, such as sports, car accidents, falls, and certain medical conditions. Our bones, the hardest part of our body, are often broken or fractured during these accidents. The most severe bone injuries are the comminuted fracture, in which bones are broken into many fragments. Among all femoral fracture cases, 95% of them are comminuted fractures. 
+Compared with simple fractures, comminuted fractures take twice the operation time on average due to the time taken in the cumbersome fixation of bone fragments. To make it worse, sometimes, there is no good way to fix some small fragments. Therefore, a biocompatible magic glue with sufficient mechanical strength and controlled degradation feature is urgently wanted to help the fixation of bone fragments.
+
 Go to the Wiki tab and fill in all of the details, making a nice presentation of the analyses there.
 
 Consider including a nice diagram that shows the main framework:
