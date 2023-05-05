@@ -1,41 +1,36 @@
 # Codeassigment_mibom
 Asignatura Proyecto de Comunicació Cientifica
 
-Introduce yourself:
+## Introducing myself:
 
-Name: Gemma Surname: Esteve Valls UNIS: u198689 Email: gemma.esteve02@estudient.upf.edu
+Hi, I'm Gemma Esteve, student from UPF (UNIS: u198689 Email: gemma.esteve02@estudient.upf.edu ) on this code assigment I'm willing to show you an IGEM project that I found really interessting and impactful for the treatment of continuated bone fractures. 
 
-Introduce your project:
+## Introducing the project: MIBOM (Mussel Inspired Biological Operational Material). 
 
-what is the state of the art?
-what is the problem/limitation of the state of the art?
-how do you aim to improve it?
-Make sure you cite the sources that you report. Two consicutive citations [1,2] usually separated by comma [2,3], three or more consecutive citations are generally separated by dash [1-3].
+It has to give a welcoming, clear and concise presentation of who developed what, it has to hint at previous state-of-the-art (including citations, see demo repository) and provide motivations for why is it so important and impactful to develop/run such code.
+Please take good care of references, it is highly recommended that you correctly refer to published material
 
-#We live in a world with many accidents, such as sports, car accidents, falls, and certain medical conditions. Our bones, the hardest part of our body, are often broken or fractured during these accidents. The most severe bone injuries are the comminuted fracture, in which bones are broken into many fragments. Among all femoral fracture cases, 95% of them are comminuted fractures. 
-Compared with simple fractures, comminuted fractures take twice the operation time on average due to the time taken in the cumbersome fixation of bone fragments. To make it worse, sometimes, there is no good way to fix some small fragments. Therefore, a biocompatible magic glue with sufficient mechanical strength and controlled degradation feature is urgently wanted to help the fixation of bone fragments.
+> **⚠️ SHANGHAITECH TEAM⚠️**: The project was developed by ShanghaiTech_China. ShanghaiTech_China is an excellent team, created for taking part of the IGEM competition and they were focused on changing the world with synthetic biology. Most of our members have interdisciplinary background or willingness. The design of MIBOM is delicate and difficult, combining the proteins, cells and materials. To finish the MIBOM, we need to learn about many areas, familiar or not, and combined them jointly.
 
-Go to the Wiki tab and fill in all of the details, making a nice presentation of the analyses there.
+> **⚠️BACKGROUND⚠️**: We live in a world with many accidents, such as sports, car accidents, falls, and certain medical conditions. Our bones, the hardest part of our body, are often broken or fractured during these accidents. The most severe bone injuries are the comminuted fracture, in which bones are broken into many fragments. Among all femoral fracture cases, 95% of them are comminuted fractures. Compared with simple fractures, comminuted fractures take twice the operation time on average due to the time taken in the cumbersome fixation of bone fragments. To make it worse, sometimes, there is no good way to fix some small fragments. Therefore, a biocompatible magic glue with sufficient mechanical strength and controlled degradation feature is urgently wanted to help the fixation of bone fragments.
 
-Consider including a nice diagram that shows the main framework:
+> **⚠️ SOLUTION⚠️**: This year, ShanghaiTech_China developed a new osteogenic glue with a mechanosensitive regulation system. To prove the concept and get a reliable product, we performed a series of experiments to show that the system could be feasible. Eventually, our results have established the concept of a robust osteogenic glue with high mechanical strength, regulated degradation feature, and drug-release capability.
 
-imagen
-plot ([image](https://user-images.githubusercontent.com/132361336/235732768-0acf862f-994d-4789-bd6b-c43603372e89.png))
+> **⚠️ PROCEDIEMTN ⚠️**: To address the comminuted fracture, we need to overcome four obstacles. First, we need to find a substance that can adjoin the bone fragments in the humoral environment. Second, to keep the shape of the injured bone, a relatively high structural strength support is needed. Moreover, the material should degrade as the bone grows. Lastly, the material should be efficient to deliver the drugs or growth factors with the degradation of MIBOM. To reach the above four goals, we designed adhesion, hydrogel, regulation, and drug release four systems to solve the problems correspondingly.
+
+![image](https://user-images.githubusercontent.com/132361336/236430797-d86cb1f9-321d-4a3a-9d53-e7053ceb46ec.png)
 
 
-Insert bibliography (with DOI)
+Bibliography (with DOI):
 
-[1] Ferro, D., Cash-Padgett, T., Wang, M. Z., Hayden, B., Moreno-Bote, R. (2023). Gaze-centered gating and reactivation of value encoding in orbitofrontal cortex bioRxiv 2023.04.20.537677. https://doi.org/10.1101/2023.04.20.537677
+[1] Ferro, D., Cash-Padgett, T., Wang, M. Z., Hayden, B., Moreno-Bote, R. (2021). Mussel Inspired Biological Operational Material. https://2021.igem.org/Team:ShanghaiTech_China
 
-[2] Ferro, D., van Kempen, J., Boyd, M., Panzeri, S., & Thiele, A. (2021). Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention. Proceedings of the National Academy of Sciences, 118(12), e2022097118. https://doi.org/10.1073/pnas.2022097118
 
-[3] Moreno-Bote, R., Beck, J., Kanitscheider, I., Pitkow, X., Latham, P., & Pouget, A. (2014). Information-limiting correlations. Nature neuroscience, 17(10), 1410-1417. https://doi.org/10.1038/nn.3807
 
 License Creative-Common (CC 4.0)
 
 Author contact
-Demetrio Ferro
-C\ Ramon Trias Fargas 25-27,
+Gemma Esteve Valls
+D\ Mar 25-27,
 08005 Barcelona, Spain
-demetrio.ferro@upf.edu
-https://orcid.org/0000-0003-4969-1415
+gemma.esteve02@upf.edu
