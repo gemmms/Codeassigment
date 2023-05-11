@@ -23,7 +23,7 @@ Please take good care of references, it is highly recommended that you correctly
 
 Bibliography (with DOI):
 
-[1] Ferro, D., Cash-Padgett, T., Wang, M. Z., Hayden, B., Moreno-Bote, R. (2021). Mussel Inspired Biological Operational Material. https://2021.igem.org/Team:ShanghaiTech_China
+[1] Su, R., Zhu, C., Ding, S. Z., Wang, H., Ding, H., Li, Z., Ling, C., Hu, Li., Wang, H., Ding, H. Xee,R. , Wang,K., Xin,Q., Wen,Y. (2021). Mussel Inspired Biological Operational Material. https://2021.igem.org/Team:ShanghaiTech_China
 
 
 
